@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paint Recorder</string>
+    <string name="choose_format_title">Choose Audio Format</string>
+    <string name="audio_format">Format</string>
+</resources>
